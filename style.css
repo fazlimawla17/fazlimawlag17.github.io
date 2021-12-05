@@ -1,6 +1,8 @@
 .jumbotron {
   padding-top: 6rem;
   background-color: #161616;
+  background-image: url(img/bg/bg2.png);
+  background-position: center top;
 }
 
 #about {
